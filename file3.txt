@@ -1,3 +1,7 @@
 This is a text file
 
+<<<<<<< HEAD
 Edited on Github
+=======
+edit
+>>>>>>> add_new_features
